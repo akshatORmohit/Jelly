@@ -1,6 +1,9 @@
 # JELLY : A File System Organiser
 
 <!-- PROJECT LOGO -->
+  <a>
+    <img src="Images/logo.png" alt="Logo" width="400" height="200" >
+  </a>
 
  
 <!-- ABOUT  -->
@@ -15,7 +18,7 @@ for this we are using file system module of nodejs and depth first algorithm for
 
 ## SCREENSHOTS
  <a>
-    <img src="Images/Jelly_Tree.png" alt="Logo" >
+    <img src="Images/Jelly_Tree.png" alt="SS >
   </a>
 
 
