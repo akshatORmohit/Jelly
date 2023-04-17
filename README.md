@@ -4,7 +4,9 @@
     <img src="Images/logo.png" alt="Logo" width="300" height="150" >
   </a>
 <!-- ABOUT  -->
+
 ## About
+
 Jelly is a file system organiser which organises and manages the files , folder according to their extensions and show details of all files and folder inside your current directory.
 This project is fully based on javaScript and Modules of Node js , in this project ,modules such as Path Module and File System Module  of Nodejs is used and  Jelly listen following three commands : 
 
@@ -14,7 +16,7 @@ for this we are using file system module of nodejs and depth first algorithm for
 
 ### SCREENSHOTS
  <a>
-    <img src="Images/Jelly_Tree.png" alt="SS >
+    <img src="Images/Jelly_Tree.png" alt="SS">
   </a>
 
 ### Jelly Organize
