@@ -21,7 +21,7 @@ for this we are using file system module of nodejs and depth first algorithm for
 
 ### Jelly Organize
 this command organised your local files according to their extensions , it first cut the file from its path and paste into a different folder named MANAGER FILE according to extension of file
-for example  xyz.pdf file goes to DOC folder of #### Manager File  Folder
+for example  xyz.pdf file goes to DOC folder of <strong> Manager File  Folder</strong>
 
 ### Jelly help
 this command gives help guide 
