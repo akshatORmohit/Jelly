@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
   <a 
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/Jelly_Tree.png" alt="Logo" width="80" height="80">
   </a>
   <br />
 
